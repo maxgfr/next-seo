@@ -2,7 +2,7 @@ repo_name: maxgfr/next-seo
 report_id: da5ac0f8c4f6f6a36b456dabbdeb09da
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:56:52+00:00'
+timestamp: '2024-02-29T18:32:56+00:00'
 requested_by: garmeeh
 provider: github
 branch: master
@@ -31,7 +31,7 @@ tools:
   detection_source_url: https://github.com/maxgfr/next-seo
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.2.4
   open_source: true
@@ -136,7 +136,7 @@ tools:
   last_updated_by: Gary Meehan
   last_updated_on: 2018-06-12 21:31:39.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.8
   license: MIT
